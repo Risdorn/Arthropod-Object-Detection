@@ -2,6 +2,8 @@
 
 Arthropods such as Spiders, Beetles, Flies are very difficult to observe and capture. As such building a model that could be used to automate identifying and capturing Arthropods could be very useful.
 
+The Kaggle Notebook can be viewed [here](https://www.kaggle.com/code/rishabh222/arthropod-object-detection)
+
 ## Data
 
 The data has been taken from Arthropod Taxonomy Orders Object Detection Dataset which is a dedicated dataset for Arthropods. The link for the dataset can be found [here](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset). A sample image from the dataset is also shown below.
